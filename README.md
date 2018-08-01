@@ -4,19 +4,19 @@ Codename : FermiAluminiumMosquito
 Package to manage my personal git repositories.
 
 Submodules :
-A. SSH
-B. GIT
-D. Linux Shell Commands
-D. Linux Filesystem
+1. SSH
+2. GIT
+3. Linux Shell Commands
+4. Linux Filesystem
 
 Implementation :
-Ansible/Paramiko
+AWX/Ansible/Paramiko
 
 Integrations :
-I1. Archive.org
-I2. GITHUB
-I3. Travis
-I4. CircleCI
+1. Archive.org
+2. GITHUB
+3. Travis
+4. CircleCI
 
 Rough requirements
 
